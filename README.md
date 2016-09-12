@@ -1,10 +1,3 @@
-# hello-world
-first repository
-Today is Saturday September 3, 2016
-The dog is not here.
-Today is Sunday.
-The dog is still not here.
-Now it is almost 8 AM.
-Alabama beat USC.
-Now it is 7:57 AM.
-Time is 7:58 AM.
+# this is a trial to show that R code can be written and saved
+# working directory at UTSWMC: setwd("D:/Documents/0_malloy_600/m_503_R")
+# working directory at home:
